@@ -1,0 +1,17 @@
+#video{
+width: 100%;
+}
+.campuslife_mainDiv
+{
+border: 1px solid aqua;
+}
+.campuslife_mainDiv img
+{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.campuslife_mainDiv h5, .campuslife_mainDiv p
+{
+margin: 20px;
+}
